@@ -8,7 +8,7 @@ To run this project locally, run the following command `npm start`, this will st
 
 ### Netlify Deployment
 
-SpaceX app is deployed on **Netlify** 
+SpaceX app is deployed on **Netlify** https://arbabbadarkhanspaacex.netlify.app/
 
 
 
